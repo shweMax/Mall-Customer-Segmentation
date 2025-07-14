@@ -69,9 +69,8 @@ In this project, we apply **K-Means Clustering**, a popular unsupervised machine
    pip install pandas numpy matplotlib scikit-learn
 3. Place `Mall_Customers.csv` in the root directory.
 4. Run the notebook:
-
-In **Jupyter Notebook** or **Google Colab**, open and run the file:  
-`Customer-Segmentation.ipynb`
+    In **Jupyter Notebook** or **Google Colab**, open and run the file:  
+    `Customer-Segmentation.ipynb`
 
   
 
