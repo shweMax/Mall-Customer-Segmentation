@@ -19,7 +19,7 @@ In this project, we apply **K-Means Clustering**, a popular unsupervised machine
 ## 📁 Dataset
 
 - **Name:** Mall Customer Segmentation Data
-- **Source:** [Kaggle (VJ Choudhary)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 - **Attributes:**
   - `CustomerID`
   - `Gender`
